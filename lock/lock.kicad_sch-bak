@@ -3241,50 +3241,6 @@
 			)
 		)
 	)
-	(no_connect
-		(at 135.89 91.44)
-		(uuid "04186afb-2a7c-4e74-bad7-92940e07dd3c")
-	)
-	(no_connect
-		(at 123.19 91.44)
-		(uuid "272b3377-57a7-4c3c-8a82-7a7f0826c283")
-	)
-	(no_connect
-		(at 118.11 91.44)
-		(uuid "32426f53-ae53-48e1-a752-1da9627f83d0")
-	)
-	(no_connect
-		(at 120.65 91.44)
-		(uuid "42308ba8-e410-451b-8871-35871b0f5b40")
-	)
-	(no_connect
-		(at 143.51 91.44)
-		(uuid "65cfee29-9c44-41ba-99ce-485b09eacd2b")
-	)
-	(no_connect
-		(at 125.73 91.44)
-		(uuid "7252061b-9986-4d24-a399-c75daa0f5f75")
-	)
-	(no_connect
-		(at 146.05 91.44)
-		(uuid "98ffc61f-3afc-4631-a09d-fc1a866f27fb")
-	)
-	(no_connect
-		(at 130.81 91.44)
-		(uuid "aad964b5-399e-4bb0-97b1-5d05db82542b")
-	)
-	(no_connect
-		(at 140.97 91.44)
-		(uuid "b95c628b-90a9-49f8-a41e-7a74c331f1e5")
-	)
-	(no_connect
-		(at 148.59 91.44)
-		(uuid "d3637406-4c0d-4c4b-8dba-8a871f34f7c1")
-	)
-	(no_connect
-		(at 133.35 91.44)
-		(uuid "ee57989e-7686-4c3d-993b-3c128ea1059d")
-	)
 	(wire
 		(pts
 			(xy 153.67 91.44) (xy 153.67 95.25)
