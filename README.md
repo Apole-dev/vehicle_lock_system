@@ -1,4 +1,4 @@
 ## Schematic Diagram
 
-![Schematic](./images/schematic.png)
+![Schematic](./Images/schematic.png)
 
